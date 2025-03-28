@@ -20,6 +20,13 @@
 
         }
 
+    ],
+
+    "rewrites": [
+        { "source": "/(.*)", 
+        
+        "destination": "/" }
+    
     ]
 
 }
